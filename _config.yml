@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Iwan Kramer
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Iwan Kramer
+  email: iwanrogier@hotmail.com
 
 plugins:
   - jemoji
@@ -16,6 +16,8 @@ collections_dir: all_collections
 collections:
   posts:
     output: true
+
+baseurl: "iwan-blog"
 
 defaults:
   - scope:
