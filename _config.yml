@@ -17,8 +17,6 @@ collections:
   posts:
     output: true
 
-baseurl: "iwan-blog"
-
 defaults:
   - scope:
       path: "_posts"
