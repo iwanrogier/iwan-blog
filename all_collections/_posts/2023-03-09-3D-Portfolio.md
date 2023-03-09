@@ -10,5 +10,5 @@ Hi,
 In this post i share 3D projects i have worked on. Feel free to look around.
 
 This is a video of a VR game i have worked on called Grutte Pier VR. It was a short VR game where you defend a Frisian village from Dutch soldiers in the time of Grutte Pier.
-<iframe width="420" height="315" src="https://drive.google.com/file/d/17ItH--G87CF7VXKjYJ-AAdDV-fmvzGRp/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://youtu.be/Kzk2odosI4c" frameborder="0" allowfullscreen></iframe>
 
